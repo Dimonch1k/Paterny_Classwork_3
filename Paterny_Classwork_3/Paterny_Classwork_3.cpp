@@ -43,20 +43,3 @@ int main()
 
     cout << smartHome->makeTurn();
 }*/
-
-
-
-
-
-
-
-                              //////////////
-                              //  Bridge  //
-                              //////////////
-
-
-
-int main()
-{
-
-}
